@@ -162,6 +162,7 @@ var obj2 = {age:20}
 const obj3 = {...obj1, ...obj2, "occupation":"teaching"}
 
 console.log(obj3)
+//this spread operator is widely used in real life project 
  
 
 
